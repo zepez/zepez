@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 🤡 Full stack web developer for [Restoration NewsMedia](https://restorationnewsmedia.com/). 
 
