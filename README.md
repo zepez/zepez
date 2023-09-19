@@ -1,3 +1,5 @@
-### Heyo
+### Hey 👋🏻
 
-✨ Full Stack Software Developer for [MacStadium](https://www.macstadium.com/). 
+Full Stack Software Developer based out of Raleigh, North Carolina.
+
+- [LinkedIn](https://www.linkedin.com/in/zepez/)
